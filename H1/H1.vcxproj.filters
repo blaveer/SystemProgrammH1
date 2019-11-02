@@ -18,12 +18,18 @@
     <ClInclude Include="H1.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="H2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="H1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
